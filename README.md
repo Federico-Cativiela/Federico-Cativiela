@@ -22,7 +22,7 @@
   
 - Cell phone: 1167394949
   
-- Location: in Martinez -Buenos Aires.
+- Location: Martinez -Buenos Aires.
   
 </h3>
 <p align="left">
