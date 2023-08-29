@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [FitConnect](https://fit-connect-fe.vercel.app/)
 
-- 🤝 I’m looking for help with **Chatbot with Chat GPT embed**
+- 🤝 I’m looking for help with **Chatbot with Chat GPT embedded**
 
 - 💬 Ask me about **Web development,BI analysis and IT trainings.**
 
